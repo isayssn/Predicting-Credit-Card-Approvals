@@ -1,5 +1,9 @@
 # Predicting-Credit-Card-Approvals
 In this project these tools have been used:
+* numpy
+* pandas 
+* sklearn
+
 - Handling the missing values
 - Splitting the dataset into train and test sets
 - Fitting a logistic regression model
